@@ -27,4 +27,4 @@ Output:
 Word count: 4
 Longest word: language
 Reversed sentence: egaugnal a si nohtyp
-Prime check: Yes<img width="1787" height="747" alt="image" src="https://github.com/user-attachments/assets/47628e60-7a6e-4b33-883f-0b90bf9740a3" />
+Prime check: Yes
