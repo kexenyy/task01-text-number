@@ -22,7 +22,6 @@ python task01.py
 Input:
 Sentence: python is a language
 Number: 5
-
 Output:
 Word count: 4
 Longest word: language
